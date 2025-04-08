@@ -1,0 +1,14 @@
+venv/ 
+
+__pycache__/ 
+
+*.pyc 
+
+test_calculatrice/ 
+
+test_qwant/ 
+
+test_pytest.py, test_petclinic.py, calculatrice.py, selenium_webdriver.py 
+venv/
+__pycache__/
+*.pyc
